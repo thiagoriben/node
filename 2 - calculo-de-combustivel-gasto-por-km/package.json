@@ -1,6 +1,12 @@
 {
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "read": "^3.0.1",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
